@@ -1,0 +1,25 @@
+.logo {
+  flex-grow: 0.9;
+  margin-left: 100px !important;
+}
+.link {
+  color: white;
+  text-decoration: none;
+  padding: 20px;
+  font-size: 20px;
+}
+
+.MuiAppBar-colorPrimary {
+  color: #fff;
+  background-color: #3f51b5;
+  height: 10vh;
+}
+
+.MuiToolbar-regular {
+  min-height: 90px !important;
+}
+
+.link:hover {
+  font-size: 22px;
+  font-weight: bold;
+}
