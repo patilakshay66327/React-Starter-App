@@ -7,7 +7,7 @@ This project is Ready to go project with Routing and other needful Libs.
 
 After Cloning the Porject from Git: 
 
-### `npm start`
+### `npm install`
 
 install all the dependancies.
 
